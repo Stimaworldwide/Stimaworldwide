@@ -4,9 +4,6 @@
 Tafadzwa is a ✨problem solver and a team player!✨.
 
 Me:
-
-- 🔭 I’m currently working as a Full Stack developer for a music education startup
-- 🌱 I’m currently using the Code Ignitor PHP Framework mainly 
 - 👯 I’m looking forward to land my fisrt job as a Junior Developer(Oh this dream already came true so I will leave this note here)
 - ⚡ Fun fact: I cant sleep with socks on , How do yall do it. Wierdos!
 
